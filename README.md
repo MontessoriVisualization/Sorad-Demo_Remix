@@ -11,7 +11,7 @@ The platform offers specialized interfaces for each user role:
 - **Administrators**: Manage school operations, classes, and staff
 - **Teachers**: Handle attendance, assignments, lesson plans, and student reviews
 - **Students**: Access learning materials, assignments, and view their performance
-- **Parents**: Monitor their children's progress, view lesson plans, and interact with teachers
+- **Parents**: Monitor their children's progress, view lesson plans, and interact with teachersdfdfad
 - **Library Staff**: Manage library resources
 - **Drivers**: Handle transportation logistics
 
